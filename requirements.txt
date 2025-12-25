@@ -1,0 +1,8 @@
+ctransformers==0.2.27
+sentence-transformers==5.2.0
+langchain
+langchain-community
+langchain-huggingface
+langchain-pinecone
+pinecone
+flask
