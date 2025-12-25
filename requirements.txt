@@ -6,3 +6,4 @@ langchain-huggingface
 langchain-pinecone
 pinecone
 flask
+pypdf
