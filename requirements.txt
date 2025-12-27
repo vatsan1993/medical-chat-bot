@@ -7,3 +7,5 @@ langchain-pinecone
 pinecone
 flask
 pypdf
+
+-e .
