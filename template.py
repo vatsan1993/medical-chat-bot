@@ -15,8 +15,8 @@ list_of_files = [
     # "requirements.txt",
     "research/experiment.ipynb",
     "app.py",
-    "store_index.py"
-    "static/.gitkeep"
+    "store_index.py",
+    "static/.gitkeep",
     "templates/char.html"
 
 ]
